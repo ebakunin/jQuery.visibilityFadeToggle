@@ -22,4 +22,4 @@ $(function() {
 &lt;/html&gt;
 </pre>
 
-The &lt;h1&gt; element will fade in over 1 second when the page loads. Since it's using "visibility" styling the spacing of the elements on the page will not change. This would not be true if $.fadeIn() was used instead. 
+The &lt;h1&gt; element will fade in over 1 second when the page loads. Since it's using "visibility" styling the spacing of the elements on the page will not change. This would not be true if $.fadeToggle() was used instead. 
