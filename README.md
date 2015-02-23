@@ -4,7 +4,7 @@
 Copyright (c) 2015 by Eric Christenson (eric.j.christenson[at]gmail[dot]com)<br />
 Licensed under the MIT Public License (http://opensource.org/licenses/MIT).
 
-A version of jQuery.fadeToggle() that uses 'visibility' CSS styling. jQuery.visibilityFadeToggle() is useful because jQuery.fadeToggle() only uses "display" CSS properties, which differ from "visibility" CSS properties.
+A version of jQuery.fadeToggle() that uses "visibility" CSS styling. jQuery.visibilityFadeToggle() is useful because jQuery.fadeToggle() only uses "display" CSS properties, which differ from "visibility" CSS properties.
 
 
 **Example**
